@@ -12,4 +12,11 @@ COVID-19 has taken the world by storm after first being reported in Wuhan, China
 6. numpy
 7. pmdarima
 
+Holt- Winters prediction: 
+
+![alt text](https://github.com/shahnitav/Coronavirus-Death-Prediction-in-India-using-Holt-Winters-and-ARIMA/blob/master/Holt_Winters_pred.png "Coronavirus Death Prediction by Holt Winters Method")
+
+ARIMA prediction: 
+
+![alt text](https://github.com/shahnitav/Coronavirus-Death-Prediction-in-India-using-Holt-Winters-and-ARIMA/blob/master/ARIMA_pred.png "Coronavirus Death Prediction by ARIMA Method")
 
